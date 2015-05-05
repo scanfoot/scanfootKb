@@ -1,0 +1,2 @@
+# scanfootKb
+virtual spotting keyboard
